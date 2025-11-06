@@ -76,9 +76,14 @@ SVM Best parameters found:  {'model__kernel': 'rbf', 'model__gamma': 'scale', 'm
 *   Higher employment variation rate reduces likelihood of subscription.
 *   March contacts have a higher chance of subscription.
 *   Higher consumer price index and longer call durations increase likelihood.
-*   Hall duration is the strongest predictor.
+*   Call duration is the strongest predictor.
 *   More employed people in the quarter slightly increases subscriptions.
 
+## Next steps and recommendations 
+*  There is a seasonal, time component so calls should be carried out in March.
+*  It is recommended to have longer calls since clients would be more likely to subscribe.
+*  It is recommended to make phone calls during periods of high employment rate and where customer confidence is high.
+  
 
 
 
